@@ -1,0 +1,11 @@
+{
+  "name": "@miyucy/webpack-foo-plugin",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "miyucy",
+  "license": "MIT",
+  "dependencies": {
+    "watchpack": "^1.6.0"
+  }
+}
